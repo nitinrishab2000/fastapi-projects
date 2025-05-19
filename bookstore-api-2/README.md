@@ -1,5 +1,8 @@
 📚 Bookstore API 2
+
+
 A simple FastAPI-based project that allows users to manage a collection of books. It supports full CRUD operations: creating, reading, updating, and deleting books — with additional filtering by rating and publish year.
+
 
 Features 🚀
 ✅ Get all books
@@ -10,13 +13,9 @@ Features 🚀
 ✅ Update an existing book
 ✅ Delete a book
 
-Run the API ▶️
-Start the FastAPI server using Uvicorn:
 
-bash
-Copy
-Edit
-uvicorn books:app --reload
+Run the API ▶️
+
 API will be accessible at:
 🔗 http://127.0.0.1:8000
 📘 Swagger docs: http://127.0.0.1:8000/docs
