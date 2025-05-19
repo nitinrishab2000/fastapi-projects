@@ -1,4 +1,4 @@
-# 📚 Bookstore API
+# 📚 Bookstore API 2
 
 A simple **FastAPI** project to manage a collection of books. It supports full CRUD operations and lets you filter books by rating and published year.
 
