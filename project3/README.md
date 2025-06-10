@@ -10,5 +10,4 @@ A complete Todo application built using **FastAPI**, **PostgreSQL**, and **Alemb
 - 📦 Database support with SQLAlchemy and PostgreSQL
 - 🧬 Alembic for database migrations
 
-## 📁 Project Structure
-
+![Screenshot 2025-06-11 031546](https://github.com/user-attachments/assets/a9e9e115-b6cb-4446-b1ae-7f8d8b153c32)
