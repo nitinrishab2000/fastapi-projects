@@ -10,5 +10,10 @@ This is a production-ready **FastAPI-based Todo API** that includes:
 - Dependency injection for cleaner architecture
 - Fully tested using Pytest
 
----
+
+### 🔧 Swagger UI
+
+FastAPI automatically generates interactive API documentation using Swagger UI:
+
+
 ![Screenshot 2025-06-11 031546](https://github.com/user-attachments/assets/c0e79ee9-a4ca-4e69-ba54-0cb0d9e4cfab)
